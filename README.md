@@ -1,4 +1,5 @@
 # :star: Data Science Projects [2024]
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Prophet%20-ffa01c?style=for-the-badge)
 
 This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
 
