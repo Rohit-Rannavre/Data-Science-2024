@@ -14,9 +14,9 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ### :zap: Mall Customer Segmentation
 
-> [Dataset]()
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/mall_customers_dataset.xlsx)
 
-> [Python Code]()
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/mall_customer_segmentation.ipynb)
 
 <br>
 
