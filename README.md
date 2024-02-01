@@ -12,6 +12,12 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/breast_cancer_prediction.ipynb)
 
+### :zap: Mall Customer Segmentation
+
+> [Dataset]()
+
+> [Python Code]()
+
 <br>
 
 ### Time Series Analysis
