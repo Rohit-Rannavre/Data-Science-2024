@@ -17,9 +17,9 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ### :zap: Iris Classification with PySpark
 
-> [Dateset]()
+> [Dateset](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/irisDataset.csv)
 
-> [Python Code]()
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/IrisClassification.ipynb)
 
 ### :zap: Time Series Analysis with Prophet
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/dataset_prophet.csv)
