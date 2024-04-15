@@ -5,9 +5,6 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 <br>
 
-### Machine Learning
-***
-
 ### :zap: Breast Cancer Prediction
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/breast_cancer_prediction.ipynb)
@@ -18,12 +15,13 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/mall_customer_segmentation.ipynb)
 
-<br>
+### :zap: Iris Classification with PySpark
 
-### Time Series Analysis
-***
+> [Dateset]()
 
-### :zap: Prophet
+> [Python Code]()
+
+### :zap: Time Series Analysis with Prophet
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/dataset_prophet.csv)
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2024/blob/main/Beginner%20Data%20Science%20Projects/time_series_analysis_with_prophet.ipynb)
